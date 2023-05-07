@@ -1,0 +1,8 @@
+.main{
+    display: flex;
+    background-color: red;
+}
+.d1{
+    background-color: white;
+    margin-left: 20px;
+}
